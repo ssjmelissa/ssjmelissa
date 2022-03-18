@@ -5,13 +5,13 @@
 Melissa, but you can call me Mel. 
 
 ### What I do... 
-I am a regional enterprise business representative here at GitHub <i>(the place to be, if you ask me)</i> looking after APAC/ANZ customers within the corporate, mid-market, enterprise and federal government space. 
+I am a regional Inside Sales Account Manager at GitHub <i>(the place to be, if you ask me)</i> looking after APAC/ANZ customers.
 
 ### Who I am...
 
-A Taurus 🌞, into tarot - and taro. Taro and 🍵 are my go-to bevvies. Am also obsessed with 🍣 and would have it every day if I could. Some of my interests/skills include:
+A Taurus 🌞, into tarot - and taro. Taro and matcha 🍵 are my go-to bevvies. Am also obsessed with 🍣 and would have it every day if I could. Some of my interests/skills include:
 <li>🎸 Alpha Wolf, Aries, Closure in Moscow, Dance Gavin Dance, Doja Cat, Machine Gun Kelly</li>
-<li>🎬 Jurassic Park, V for Vendetta, John Wick, Midnight Mass, The Office, New Girl</li>
+<li>🎬 Jurassic Park, V for Vendetta, John Wick, Midnight Mass, The Office, Modern Family</li>
 <li>🏆 Cheerleading, snowboarding, gym, yoga</li>
 <li>🎮 Xbox, Nintendo Switch, Discord, Steam</li>
 <li>🌏 English, Malay (Bahasa Melayu), Mandarin, Japanese, Korean</li>
