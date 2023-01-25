@@ -10,9 +10,9 @@ I am a regional Inside Sales Account Manager at GitHub <i>(the place to be, if y
 ### Who I am...
 
 A Taurus 🌞, into tarot - and taro. Taro and matcha 🍵 are my go-to bevvies. Am also obsessed with 🍣 and would have it every day if I could. Some of my interests/skills include:
-<li>🎸 Alpha Wolf, Aries, Closure in Moscow, Dance Gavin Dance, Doja Cat, Machine Gun Kelly</li>
-<li>🎬 Jurassic Park, V for Vendetta, John Wick, Midnight Mass, The Office, Modern Family</li>
-<li>🏆 Cheerleading, snowboarding, gym, yoga</li>
+<li>🎸 Aries, Closure in Moscow, Dance Gavin Dance, Doja Cat, Mayday Parade, Jhené Aiko </li>
+<li>🎬 Jurassic Park, John Wick, Midnight Mass </li>
+<li>🏆 Cheerleading, snowboarding, lifting, pilates</li>
 <li>🎮 Xbox, Nintendo Switch, Discord, Steam</li>
 <li>🌏 English, Malay (Bahasa Melayu), Mandarin, Japanese, Korean</li>
 <li>💻 HTML, CSS, python, java, javascript, R, shiny, swift, dply, ditto, ggplot, d3, dark-type java, kotlin, canvas, sawk, pyspark, sparklyR, lodash, bootstrap, jupyter, vulpix, ruby, git, flask, node.js, pandas, feebas, pgm, bayes, h2o.ai, sparkling-water, tensorflow, keras, onyx, ekans, hadoop, scala, unity, metapod, gc, c#/c++, krebase, neo4j.</li>
@@ -65,7 +65,7 @@ Be sure to check out these resources! Whether you're looking to streamline your 
 
 ### [Enhanced support for citations on GitHub](https://github.blog/2021-08-19-enhanced-support-citations-github)
   
-<i>GitHub now has built-in support for CITATION.cff files. This new feature enables academics and researchers to let people know how to correctly cite their work, especially in academic publications/materials. Originally proposed by the research software engineering community, CITATION.cff files are plain text files with human- and machine-readable citation information. When we detect a CITATION.cff file in a repository, we use this information to create convenient APA or BibTeX style citation links that can be referenced by others.</i>
+<i>GitHub now has built-in support for CITATION.cff files. This new feature enables academics and researchers to let people know how to correctly cite their work, especially in academic publications/materials. Originally proposed by the research software engineering community, CITATION.cff files are plain text files with human- and machine-readable citation information. When we detect a CITATION.cff file in a repository, we use this information to create convenient APA or BibTeX style citation links that can be referenced by others. I don't know where this was when I was back in uni.</i>
 
 <br>
   
@@ -81,7 +81,7 @@ Be sure to check out these resources! Whether you're looking to streamline your 
 
 ### [Game on? GAME OFF.](https://github.blog/2022-10-21-build-a-game-this-november-with-game-off-2022/)
 
-<i>Game Off is an annual game jam, where participants spend the month of November creating games based on a secret theme. Participate individually, or as a team. Use whatever game engines, libraries, and languages you like. The theme for this year's Game Off that has JUST been announced is.. BUG! Your challenge, should you choose to accept it, is to create a game between now and December 1, incorporating the theme - in any way you like. Voting will open shortly after the jam ends and is open to everyone who’s submitted a game. Entries will be rated on the following categories: Overall, Gameplay, Graphics, Audio, Innovation and Theme Interpretation. Voting will end on Jan 1st at 13:37 PT.
+<i>Game Off is an annual game jam, where participants spend the month of November creating games based on a secret theme. Participate individually, or as a team. Use whatever game engines, libraries, and languages you like. The theme for this year's Game Off that has JUST been announced is.. BUG! Your challenge, should you choose to accept it, is to create a game between now and December 1, incorporating the theme - in any way you like. Voting will open shortly after the jam ends and is open to everyone who’s submitted a game. Entries will be rated on the following categories: Overall, Gameplay, Graphics, Audio, Innovation and Theme Interpretation. Voting ends on Jan 1st at 13:37 PT.
   
 Never created a game before? With so many free, open source game engines and tutorials available online, there’s never been an easier (or more exciting!) time to try out game development.
 
