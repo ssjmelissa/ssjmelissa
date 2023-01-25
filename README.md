@@ -71,7 +71,7 @@ Be sure to check out these resources! Whether you're looking to streamline your 
   
 ![1634983694459_adobespark](https://user-images.githubusercontent.com/48047079/139962739-7715d9aa-b4ca-4a66-b097-f2927b3f8cf8.jpeg)
 
-### [Create your GitHub contribution skyline](https://skyline.github.com/)
+### [Create your GitHub contribution skyline](https://skyline.github.com/) 
 
 <i>Want to see your GitHub contribution graph as a city skyline? Simply enter your GitHub @ handle and you've got yourself your very own 3D skyline based on all your commits for any chosen year. You can also print it - yes, print it. For those with a 3D printer, we have a .stl file for you to download. Make yours [here](https://lnkd.in/g4whEPV)!</i>
 
