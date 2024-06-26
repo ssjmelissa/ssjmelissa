@@ -5,17 +5,13 @@
 Melissa, but you can call me Mel. 
 
 ### What I do... 
-I am a regional Inside Sales Account Manager at GitHub <i>(the place to be, if you ask me)</i> looking after APAC/ANZ customers.
+I am a regional Inside Sales Account Executive at GitHub <i>(the place to be, if you ask me)</i> looking after ASEAN customers.
 
 ### Who I am...
 
-A Taurus 🌞, into tarot - and taro. Taro and matcha 🍵 are my go-to bevvies. Am also obsessed with 🍣 and would have it every day if I could. Some of my interests/skills include:
-<li>🎸 Aries, Closure in Moscow, Dance Gavin Dance, Doja Cat, Mayday Parade, Jhené Aiko </li>
-<li>🎬 Jurassic Park, John Wick, Midnight Mass </li>
-<li>🏆 Cheerleading, snowboarding, lifting, pilates</li>
-<li>🎮 Xbox, Nintendo Switch, Discord, Steam</li>
-<li>🌏 English, Malay (Bahasa Melayu), Mandarin, Japanese, Korean</li>
-<li>💻 HTML, CSS, python, java, javascript, R, shiny, swift, dply, ditto, ggplot, d3, dark-type java, kotlin, canvas, sawk, pyspark, sparklyR, lodash, bootstrap, jupyter, vulpix, ruby, git, flask, node.js, pandas, feebas, pgm, bayes, h2o.ai, sparkling-water, tensorflow, keras, onyx, ekans, hadoop, scala, unity, metapod, gc, c#/c++, krebase, neo4j.</li>
+A Taurus 🌞, into tarot - and taro. Taro and matcha 🍵 are my go-to bevvies. Am also obsessed with 🍣 and would have it every day if I could. Some of my skills include:
+
+💻 HTML, CSS, python, java, javascript, R, shiny, swift, dply, ditto, ggplot, d3, dark-type java, kotlin, canvas, sawk, pyspark, sparklyR, lodash, bootstrap, jupyter, vulpix, ruby, git, flask, node.js, pandas, feebas, pgm, bayes, h2o.ai, sparkling-water, tensorflow, keras, onyx, ekans, hadoop, scala, unity, metapod, gc, c#/c++, krebase, neo4j.
 
 # ♡ frommetoyou.
 ![giphy (2)](https://user-images.githubusercontent.com/48047079/139785348-d4dc47c3-b70b-40bc-b51c-490042f27563.gif)
