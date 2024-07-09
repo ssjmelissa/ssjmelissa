@@ -5,7 +5,7 @@
 Melissa, but you can call me Mel. 
 
 ### What I do... 
-I am a regional Inside Sales Account Executive at GitHub <i>(the place to be, if you ask me)</i> looking after ASEAN customers.
+I am a Senior Coporate Account Executive at GitHub <i>(the place to be, if you ask me)</i> looking after ASEAN customers.
 
 ### Who I am...
 
