@@ -77,11 +77,11 @@ Be sure to check out these resources! Whether you're looking to streamline your 
 
 ### [Game on? GAME OFF.](https://github.blog/2022-10-21-build-a-game-this-november-with-game-off-2022/)
 
-<i>Game Off is an annual game jam, where participants spend the month of November creating games based on a secret theme. Participate individually, or as a team. Use whatever game engines, libraries, and languages you like. The theme for this year's Game Off that has JUST been announced is.. BUG! Your challenge, should you choose to accept it, is to create a game between now and December 1, incorporating the theme - in any way you like. Voting will open shortly after the jam ends and is open to everyone who’s submitted a game. Entries will be rated on the following categories: Overall, Gameplay, Graphics, Audio, Innovation and Theme Interpretation. Voting ends on Jan 1st at 13:37 PT.
+<i>Game Off is an annual game jam, where participants spend the month of November creating games based on a secret theme. Participate individually, or as a team. Use whatever game engines, libraries, and languages you like. The theme for this year's Game Off that has JUST been announced is.. BUG! Your challenge, should you choose to accept it, is to create a game between now and December 1, incorporating the theme - in any way you like. Voting will open shortly after the jam ends and is open to everyone who’s submitted a game. Entries will be rated on the following categories: Overall, Gameplay, Graphics, Audio, Innovation and Theme Interpretation. 
   
 Never created a game before? With so many free, open source game engines and tutorials available online, there’s never been an easier (or more exciting!) time to try out game development.
 
-Check out [Game Off 2022](https://itch.io/jam/game-off-2022) for more info.</i>
+Check out [Game Off 2022](https://itch.io/jam/game-off-2024) for more info.</i>
 <br>
 <br>
 <br>
