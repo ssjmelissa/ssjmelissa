@@ -81,8 +81,7 @@ Be sure to check out these resources! Whether you're looking to streamline your 
   
 Never created a game before? With so many free, open source game engines and tutorials available online, there’s never been an easier (or more exciting!) time to try out game development.
 
-Check out [Game Off 2022](https://itch.io/jam/game-off-2024) for more info.</i>
-<br>
+Check out [Game Off 2025](https://itch.io/jam/game-off-2024) for more info.</i>
 <br>
 <br>
 ### Alright, well. Thank you so much for popping by!
