@@ -4,18 +4,14 @@
 ### Hello! My name is...
 Melissa, but you can call me Mel. 
 
-### What I do... 
-I am a Senior Coporate Account Executive at GitHub looking after APAC customers.
+I am a Senior Account Executive, currently enjoying my full-time residency at GitHub - the home to millions of developers worldwide. Always looking to broaden my skills and connect with people. Reach out to me if you would like to chat about GitHub (or tech in general!) explore employment opportunities in sales, or even just to say hello to a friendly face.
 
-### Who I am...
-
-Currently enjoying my full-time residency at GitHub, the home to millions of developers worldwide. Always looking to broaden my skills and connect with people. Connect with me if you would like to chat about GitHub (or tech in general!) explore employment opportunities in sales, or even just to say hello to a friendly face.
 
 # ♡ frommetoyou.
 ![giphy (2)](https://user-images.githubusercontent.com/48047079/139785348-d4dc47c3-b70b-40bc-b51c-490042f27563.gif)
 
 ### While you're here...
-Be sure to check out these resources! Whether you're looking to streamline your development workflows, improve your AppSec practices, or are interested to dive into into some cool features and exciting news - I got you covered.
+Be sure to check out these resources! Whether you're looking to streamline your development workflows, embed AI across your SDLC, improve your AppSec practices, or are interested to dive into into some cool features and exciting news - I've got you covered.
 
 <br>
 
@@ -30,18 +26,16 @@ Want to learn [more](https://github.com/security/advanced-security/what-is-githu
 ### [GitHub Copilot: Your AI pair programmer](https://github.com/features/copilot)
 
 <img width="2496" height="1474" alt="videoframe_16033" src="https://github.com/user-attachments/assets/fe991e6e-1e8b-4d25-9b9e-f10159168e1b" />
-
-<i>GitHub Copilot transforms the developer experience. Backed by the leaders in AI, GitHub Copilot provides contextualized assistance throughout the software development lifecycle, from code completions and chat assistance in the IDE to code explanations and answers to docs in GitHub and more. With GitHub Copilot elevating their workflow, developers can focus on: value, innovation, and happiness.</i>
-
-<li>Copilot in your editor does it all, from explaining concepts and completing code, to proposing edits and validating files with agent mode.</li>
-
-<li>Assign issues directly to Copilot and let it autonomously write code, create pull requests, and respond to feedback in the background.</li>
-
-<li>Direct Copilot in the terminal using natural language and watch it plan, build, and execute complex workflows powered by your GitHub context.</li>
-
-
-What does [your](https://github.blog/tag/github-copilot/) use case look like?
-
+<br>
+</br>
+<i>GitHub Copilot transforms the developer experience across every surface - from your IDE to your terminal. Backed by the leaders in AI, Copilot provides contextualized assistance throughout the entire software development lifecycle, so developers can focus on what matters most: value, innovation, and happiness.</i>
+<br>
+</br>
+<li>Copilot in your editor does it all - from explaining concepts and completing code, to proposing multi-file edits and autonomously scaffolding entire features with agent mode.</li>
+<li>Use Copilot in the CLI to translate plain English into shell commands, explain unfamiliar outputs, and execute complex multi-step workflows - all powered by your GitHub context.</li>
+<li>Assign issues directly to Copilot and let it autonomously write code, open pull requests, and respond to reviewer feedback in the background - while you stay focused on the big picture.</li>
+<br>
+What does your use case look like?
 
 ### [Create your GitHub contribution skyline](https://skyline.github.com/) 
 
@@ -49,15 +43,13 @@ What does [your](https://github.blog/tag/github-copilot/) use case look like?
 
 <i>Want to see your GitHub contribution graph as a city skyline? Simply enter your GitHub @ handle and you've got yourself your very own 3D skyline based on all your commits for any chosen year. You can also print it - yes, print it. For those with a 3D printer, we have a .stl file for you to download. Make yours [here](https://lnkd.in/g4whEPV)!</i>
 
-### [Game on? GAME OFF.](https://github.blog/2022-10-21-build-a-game-this-november-with-game-off-2022/)
+### [Game on? GAME OFF.](https://github.blog/company/github-game-off-2025-theme-announcement/)
 
 ![ezgif-3-5a2ece833fc4-1](https://user-images.githubusercontent.com/48047079/139960618-b77dec6c-0d68-4c88-a49c-f7cf08cac931.gif)
 
-<i>Game Off is an annual game jam, where participants spend the month of November creating games based on a secret theme. Participate individually, or as a team. Use whatever game engines, libraries, and languages you like. The theme for this year's Game Off that has JUST been announced is.. BUG! Your challenge, should you choose to accept it, is to create a game between now and December 1, incorporating the theme - in any way you like. Voting will open shortly after the jam ends and is open to everyone who’s submitted a game. Entries will be rated on the following categories: Overall, Gameplay, Graphics, Audio, Innovation and Theme Interpretation. 
+<i>Game Off is an annual game jam, where participants spend the month of November creating games based on a secret theme. Participate individually, or as a team. Use whatever game engines, libraries, and languages you like. The theme for last year's Game Off was WAVE! Keep your eyes peeled for this year's theme. Your challenge, should you choose to accept it, is to create a game, incorporating the theme - in any way you like. Voting will open shortly after the jam ends and is open to everyone who’s submitted a game. Entries will be rated on the following categories: Overall, Gameplay, Graphics, Audio, Innovation and Theme Interpretation.</i>
   
 Never created a game before? With so many free, open source game engines and tutorials available online, there’s never been an easier (or more exciting!) time to try out game development.
-
-Check out [Game Off 2025](https://itch.io/jam/game-off-2024) for more info.</i>
 <br>
 <br>
 ### Alright, well. Thank you so much for popping by!
